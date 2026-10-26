@@ -1,0 +1,13 @@
+BIOLOGY NOTES: CELL BIOLOGY
+
+UNIT 1, SECTION 1: CELL STRUCTURE
+The nucleus contains the cell's genetic material. Mitochondria are the site of aerobic respiration. Ribosomes assemble proteins. The cell membrane controls movement of substances into and out of the cell.
+
+UNIT 3, SECTION 1: MITOSIS
+Mitosis is one nuclear division that produces two genetically identical daughter cells. The chromosome number is maintained. Meiosis involves two divisions and produces four haploid cells.
+
+UNIT 4, SECTION 2: CELLULAR RESPIRATION
+The Krebs cycle takes place in the mitochondrial matrix. Reduced coenzymes carry electrons to the electron transport chain, which is located on the inner mitochondrial membrane. Glycolysis occurs in the cytoplasm.
+
+UNIT 5, SECTION 3: DNA REPLICATION
+Helicase separates the DNA strands. DNA polymerase adds nucleotides to a growing strand. On the lagging strand, DNA is made in short Okazaki fragments. DNA ligase joins these fragments into a continuous strand.
